@@ -146,10 +146,15 @@ The `yield` keyword turns a function into a generator. When you call a generator
 """module docstring"""
 
 imports
+
 constants
+
 exception classes
+
 interface functions
+
 classes
+
 internal functions & classes
 
 def main(...):
